@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<content>
+
+<portfolio>
+        <project_name>Austral Asia Lines</project_name>
+	<thumb>images/thumbs/aal_tm.jpg</thumb>
+        <image>images/aal.jpg</image>
+        <link>http://mytestingteam.com/australasia</link>
+	<txt>One of Australia's biggest shipping lines chose FLash Designs to build a Content Management System based web site that utilises FLash, PHP, HTML, Java and numerous other technologies to deliver a truly world class product.
+
+Currently under development and due to be released on 1st September 2010.
+</txt>
+    </portfolio>
+
+<portfolio>
+        <project_name>Aeromic</project_name>
+	<thumb>images/thumbs/aeromic_tm.jpg</thumb>
+        <image>images/aeromic.jpg</image>
+        <link>http://www.aeromic.com.au</link>
+	<txt>Leaders in the field of fitness audio, aeromic commissioned Flash Designs to build a Flash portal and 3 Magento e-commerce shops to promote their huge range of products both nationally and internationally!
+The e-commerce solutions are due for release by 27th August 2010.
+</txt>
+    </portfolio>
+
+<portfolio>
+        <project_name>Yolanda and the Stolen Boys</project_name>
+	<thumb>images/thumbs/yolanda_tm.jpg</thumb>
+        <image>images/yolanda.jpg</image>
+        <link>http://www.stolenboys.com</link>
+	<txt>Premiere Sydney rock act Yoland and the Stolen Boys wanted to increase their presence in Los Angeles and give the impression to US record companies that they have a lot of backing behind them! Flash Designs delivered a supurb solution utilising cutting edge Flash technology!
+</txt>
+    </portfolio>
+
+<portfolio>
+        <project_name>Dotcom Interiors</project_name>
+	<thumb>images/thumbs/dotcom_tm.jpg</thumb>
+        <image>images/dotcom.jpg</image>
+        <link>http://www.flashdesigns.com.au/dotcom</link>
+	<txt>One of the biggest interior fitout companies in Sydney with a massive portfolio of blue chip clients!
+</txt>
+    </portfolio>
+
+  <portfolio>
+        <project_name>Michael Dolce</project_name>
+	<thumb>images/thumbs/dolce_tm.jpg</thumb>
+        <image>images/dolce.jpg</image>
+        <link>http://www.michaeldolcemusic.com</link>
+	<txt>Australia's leading musical director and gun guitarist Michael Dolce used Flash Designs to deliver and amazing solution with a custom Content Management System to shocase his playing and his amazing new album!
+</txt>
+    </portfolio>
+
+<portfolio>
+        <project_name>Viking Lounge Mastering</project_name>
+	<thumb>images/thumbs/thumb16.jpg</thumb>
+        <image>images/image16.jpg</image>
+        <link>http://www.vikingloungemastering.com</link>
+	<txt>Viking Lounge mastering are one of the leading mastering suites in the World. Mastering Engineer Paul Stefanidis commissioned Andrew Taylor to build a unique web presence for his business and Flash Designs created an interface that resembles a rack mount audio effect!
+With a background in high end audio Andrew Taylor has the experience required to create a look and feel that has delivered an excellent solution to the discerning needs of this excellent facility. Currently under development.</txt>
+    </portfolio>
+
+    <portfolio>
+        <project_name>Lourda Lahood</project_name>
+	<thumb>images/thumbs/thumb4.jpg</thumb>
+        <image>images/image4.jpg</image>
+        <link>http://www.lourda.com.au</link>
+	<txt>Lourda Lahood is a Sydney vocalist and MC and wanted a different approach to her web site. Flash Designs created a branding that is remiscent of teh French fashion industry with an unusual web site and business cards utilising cutting edge design.
+A system of opening panels was developed with small video segues creating a mysterious atmosphere. All design, video and audio production was created in-house by Andrew Taylor.</txt>
+    </portfolio>
+
+<portfolio>
+        <project_name>Charles Cilia Custom Guitars</project_name>
+	<thumb>images/thumbs/cilia_tm.jpg</thumb>
+        <image>images/cilia.jpg</image>
+        <link>http://www.stolenboys.com</link>
+	<txt>Charles Cilia makes the best custom guitars in the World!
+</txt>
+    </portfolio>
+
+<portfolio>
+        <project_name>Blue Murder Pickups</project_name>
+	<thumb>images/thumbs/thumb34.jpg</thumb>
+        <image>images/image34.jpg</image>
+        <link>http://www.stolenboys.com</link>
+	<txt>The best guitar pickups in the World!
+</txt>
+    </portfolio>
+
+<portfolio>
+        <project_name>The Sonic Factory</project_name>
+	<thumb>images/thumbs/thumb34.jpg</thumb>
+        <image>images/image34.jpg</image>
+        <link>http://www.stolenboys.com</link>
+	<txt>Fantastic recording and rehearsal studios located in Belmore in Sydney
+</txt>
+    </portfolio>
+
+<portfolio>
+        <project_name>Silverback Records</project_name>
+	<thumb>images/thumbs/thumb34.jpg</thumb>
+        <image>images/image34.jpg</image>
+        <link>http://www.stolenboys.com</link>
+	<txt>Record label for JOhn Martinovic
+</txt>
+    </portfolio>
+
+<portfolio>
+        <project_name>R-Series Productions</project_name>
+	<thumb>images/thumbs/thumb34.jpg</thumb>
+        <image>images/image34.jpg</image>
+        <link>http://www.stolenboys.com</link>
+	<txt>PA company based in Sydney
+</txt>
+    </portfolio>
+
+<portfolio>
+        <project_name>Vicky Turner Band</project_name>
+	<thumb>images/thumbs/thumb34.jpg</thumb>
+        <image>images/image34.jpg</image>
+        <link>http://www.vickyturnerband.com.au</link>
+	<txt>One of Syndey's leading Blues and Funk singers, Vicky enthrals crowds again and again!
+</txt>
+    </portfolio>
+
+<portfolio>
+        <project_name>Woy Woy Leagues Club</project_name>
+	<thumb>images/thumbs/thumb34.jpg</thumb>
+        <image>images/image34.jpg</image>
+        <link>http://www.stolenboys.com</link>
+	<txt>Woy Woy Leagues Club required a Content Management driven solutio to their web site so they can consistently update new and upcoming events.
+</txt>
+    </portfolio>
+
+<portfolio>
+        <project_name>Antonio Zonta</project_name>
+	<thumb>images/thumbs/thumb34.jpg</thumb>
+        <image>images/image34.jpg</image>
+        <link>http://www.stolenboys.com</link>
+	<txt>Antonio gained notoriety on the tV show...blah blah
+</txt>
+    </portfolio>
+
+<portfolio>
+        <project_name>Swanz Events</project_name>
+	<thumb>images/thumbs/thumb34.jpg</thumb>
+        <image>images/image34.jpg</image>
+        <link>http://www.stolenboys.com</link>
+	<txt>Leading Sydney Events Company
+</txt>
+    </portfolio>
+
+    <portfolio>
+        <project_name>LJ Charleston</project_name>
+	<thumb>images/thumbs/thumb34.jpg</thumb>
+        <image>images/image34.jpg</image>
+        <link>http://www.ljcharleston.com</link>
+	<txt>LJ Charleston began her career as one of the youngest newspaper columnists in Australia; aged 19.  She�s an award-winning short story writer who has been a TV anchor, a Beijing correspondent and a newspaper journalist.  She�s the author of novel Light Sweet Crude, (Arctic Wolf Publishing) which has been described as �a thinking person�s thriller and a guilty pleasure.� Her writing has appeared in Your Mother Would Be Proud ( Allen and Unwin) Some Girls Do; My Life as a Teenager (Allen and Unwin), What Is Mother Love?  (Penguin) Great Australian Bites (Penguin). She has also won the prestigious Hong Kong short story competition. LJ graduated from Curtin University�s BA course and completed a Master of Arts in Writing at Sydney�s University of Technology; handing in her thesis five days before giving birth to twins. 
+</txt>
+    </portfolio>
+
+    <portfolio>
+        <project_name>The Mommy Mafia Book</project_name>
+	<thumb>images/thumbs/thumb32.jpg</thumb>
+        <image>images/image32.jpg</image>
+        <link>http://www.themommymafiabook.com</link>
+	<txt>LJ Charleston began her career as one of the youngest newspaper columnists in Australia; aged 19.  She�s an award-winning short story writer who has been a TV anchor, a Beijing correspondent and a newspaper journalist.  She�s the author of novel Light Sweet Crude, (Arctic Wolf Publishing) which has been described as �a thinking person�s thriller and a guilty pleasure.� Her writing has appeared in Your Mother Would Be Proud ( Allen and Unwin) Some Girls Do; My Life as a Teenager (Allen and Unwin), What Is Mother Love?  (Penguin) Great Australian Bites (Penguin). She has also won the prestigious Hong Kong short story competition. LJ graduated from Curtin University�s BA course and completed a Master of Arts in Writing at Sydney�s University of Technology; handing in her thesis five days before giving birth to twins. 
+</txt>
+    </portfolio>
+
+    <portfolio>
+        <project_name>ViViD</project_name>
+	<thumb>images/thumbs/thumb33.jpg</thumb>
+        <image>images/image33.jpg</image>
+        <link>http://www.flashdesigns/vivid</link>
+	<txt>Australia's top pop and rock female singer cover band, ViViD take live music back to the back yard party and lounge room in an effort to reinvigorate Australia's dying live music scene. 
+The band has delivered a great product and the site represents the energy and mystique that the band can create in any environment - from lounge room to stadium. With prices as low as $400 these guys will be popular!</txt>
+    </portfolio>
+
+    <portfolio>
+        <project_name>Peppermint Jam</project_name>
+	<thumb>images/thumbs/thumb12.jpg</thumb>
+        <image>images/image12.jpg</image>
+        <link>http://www.peppermintjam.com.au</link>
+	<txt>An offshoot of the infamous Jellybean Jam, Peppermint Jam have become an entity in their own right! Founder and owner Andy Caryoffilis has selected some of the best young musicians and singers available in Sydney and the band has steadily attracted its own clientele and following.
+
+With a strong, yet simple web presence, this band continues to entertain at events and corporate functions and is becoming increasingly more in demand!</txt>
+    </portfolio>  
+
+<portfolio>
+        <project_name>Craig Wall Photography</project_name>
+	<thumb>images/thumbs/thumb1.jpg</thumb>
+        <image>images/image1.jpg</image>
+        <link>http://www.craigwall.com.au</link>
+	<txt>Leading Sydney photographer Craig Wall aproached Flash Designs with an interesting, yet challenging brief. He wanted an XML driven site that used an interesting layout with a a menu that uses animated drop downs and an image viewer with custom cursor and a unique forward and backward arrow driven interface.
+
+Flash Designs developed Craig's design concepts with some challenging scripting - the end result being a simple, user friendly on-line portfolio!</txt>
+    </portfolio>
+
+    <portfolio>
+        <project_name>Australian Institute of Learning</project_name>
+	<thumb>images/thumbs/thumb2.jpg</thumb>
+        <image>images/image2.jpg</image>
+        <link>http://www.aiol.net.au</link>
+	<txt>The Australian Institute of Learning is a computer education facility located in the Gold Coast, Queensland Australia. CEO Ricky Naicker commissioned Flash Designs to develop an interesting visual site that would attract students of any age. 
+
+The emphasis of the brief was to capture the Gold Coast skyline with Australia's tallest landmark building Q1 being the centrepiece.</txt>
+    </portfolio>
+
+    <portfolio>
+        <project_name>Tunks Productions</project_name>
+	<thumb>images/thumbs/thumb3.jpg</thumb>
+        <image>images/image3.jpg</image>
+        <link>http://www.tunks.com.au</link>
+	<txt>Wayne Tunks is a prolific Sydney playwright and director. He approached Flash Designs with a brief that required something a little different. Being a radio personality and MC, Wayne wanted the site to reflect this. 
+
+Flash Designs offered a solution with voiceovers, showcasing his vocal abilities. With the addition of some jigsaw puzzles, this site creates and interesting and immersive experience!</txt>
+    </portfolio>
+
+    <portfolio>
+        <project_name>Jawtn Construction</project_name>
+	<thumb>images/thumbs/thumb28.jpg</thumb>
+        <image>images/image28.jpg</image>
+        <link>http://www.jawtn.com.au</link>
+	<txt>Flash Designs was approached by boutique builders, Jawtn Constructions to provide a unique web presence that would better reflect the high end nature of their services.
+
+Utilising a number of high resolution images, Flash Designs made use of the old adage of a picture says a thousand words and the quality of Jawtn's building methodologies is reflected by the impeccable presentation of their portfolio.</txt>
+    </portfolio>
+
+    <portfolio>
+        <project_name>Summer Beach Tanning</project_name>
+	<thumb>images/thumbs/thumb29.jpg</thumb>
+        <image>images/image29.jpg</image>
+        <link>http://www.flashdesigns.com.au/tanning</link>
+	<txt>Summer beach are a new mobile tanning company based in Sydney.
+
+Flash Designs developed the branding and the earthy look and feel of the project. Owner Allison has commissioned Flash Designs to design business cards and stationary to compliment the web site.</txt>
+    </portfolio>
+
+    <portfolio>
+        <project_name>Liton Sheikh</project_name>
+	<thumb>images/thumbs/thumb30.jpg</thumb>
+        <image>images/image30.jpg</image>
+        <link>http://www.litonsheikh.com</link>
+	<txt>Liton Sheikh is proud to announce the release of his forthcoming Album Gypsy Heart.
+
+Flash Designs not only developed the look and feel of the artwork for the CD and the web site, but also wrote, engineered, recorded and produced the entire album for Liton! Recorded in the Flash Designs studios over a period of 11 months, this World Music album is sure to have the critics interested.</txt>
+    </portfolio>
+
+    <portfolio>
+        <project_name>Let's Groove Tonight</project_name>
+	<thumb>images/thumbs/thumb31.jpg</thumb>
+        <image>images/image31.jpg</image>
+        <link>http://www.letsgroovetonight.com.au</link>
+	<txt>Let's Groove Tonight are a new corporate party band based in Sydney.
+
+Co-founder Chris Ninni commissioned Flash Designs to build a low cost, high impact web site for the band to deliver an initial web presence and quickly establish the band with his commercial clientele. The band contains some of the best young players in Sydney and are certain to rise to the top of the event entertainment totem pole!</txt>
+    </portfolio>
+
+    <portfolio>
+        <project_name>MVM Warehouse</project_name>
+	<thumb>images/thumbs/thumb23.jpg</thumb>
+        <image>images/image23.jpg</image>
+        <link>http://www.lourda.com.au</link>
+	<txt>Located in the Northern beaches, MVM warehouse has quickly become the most popular recording and rehearsal studio in the area.
+
+Proprietors Gavin Leach and Jason Mannell required a look and feel that would satisfy their younger clientele of musicians, along with maintaining a more corporate presence for the film and television foley work that has become one of their core businesses. The resulting site is XML driven and creates an interesting presence without detracting form the funky surroundings.</txt>
+    </portfolio>
+
+    <portfolio>
+        <project_name>Chris Ninni</project_name>
+	<thumb>images/thumbs/thumb5.jpg</thumb>
+        <image>images/image5.jpg</image>
+        <link>http://www.chrisninni.com</link>
+	<txt>Chris Ninni is quickly becoming one of Sydney's most sought after performers. He has been developing a large following over the past few years and wanted a web site that wa both corporate, yet accessible to the music industry.
+
+Flash Designs delivered a site and business cards that reflects Chris' personality and extraordinary vocal abilities.</txt>
+    </portfolio>
+
+    <portfolio>
+        <project_name>Anthea J Productions</project_name>
+	<thumb>images/thumbs/thumb6.jpg</thumb>
+        <image>images/image6.jpg</image>
+        <link>http://www.antheaj.com.au</link>
+	<txt>Anthea J productions is a boutique production company owned by Sydney chantreuse Anthea Johnson. Anthea wanted a design that was both feminine and corporate and that could showcase her entertainment consultancy.
+
+Flash Designs developed a simple yet striking interface that provides audio samples of Anthea's voiceover abilities and showcases her different acts, including the now legendary ABBA parody and tribute - FABBA.</txt>
+    </portfolio>
+
+    <portfolio>
+        <project_name>Fabba</project_name>
+	<thumb>images/thumbs/thumb7.jpg</thumb>
+        <image>images/image7.jpg</image>
+        <link>http://www.fabba.com.au</link>
+	<txt>Without a doubt the best of the multitude of ABBA tributes in South East Asia, FABBA encapsulates all that is Swedish and put the fun back into live performance! Flash Designs created an immersive web site with a complex scripted image transition and horizontally scrolling text areas.
+
+Anthea Johnson has recently commissioned Flash Designs to edit video footage of FABBA's triumphant Vietnamese tour and build a video media player on the site!</txt>
+    </portfolio>
+
+    <portfolio>
+        <project_name>Ko Chang Island Lodge Resort</project_name>
+	<thumb>images/thumbs/thumb8.jpg</thumb>
+        <image>images/image8.jpg</image>
+        <link>http://www.islandlodge-kochang.com</link>
+	<txt>Located in the Gulf of Thailand, Ko Chang is becoming an inreasingly popular destination for Australian and European travellers alike.
+
+Island Lodge owner Graham Rivens approached Andrew to build a site whilst he was on holiday and a picture postcard web site ensued that emphasises the natural beauty of the surroundings! All photography and video production were developed on Andrew's laptop during his last sojourn to this tropical paradise!</txt>
+    </portfolio>
+
+    <portfolio>
+        <project_name>Superstitious</project_name>
+	<thumb>images/thumbs/thumb9.jpg</thumb>
+        <image>images/image9.jpg</image>
+        <link>http://www.superstitiousband.com</link>
+	<txt>Superstitious are a big band that put the party back into corporate entertainment! Flash Designs have developed a web site that showcases the bands live talents with a variety of live demo songs and a comprehensive video.
+
+The design espouses the black tie persona of the band and has been extremely successful in garnering more work for this busy corporate act! An excellent example of a budget web site with maximum impact! Ring Andrew on 0424 656 973 to help your business proper!</txt>
+    </portfolio>
+
+    <portfolio>
+        <project_name>Party Bands</project_name>
+	<thumb>images/thumbs/thumb10.jpg</thumb>
+        <image>images/image10.jpg</image>
+        <link>http://www.partybands.com.au</link>
+	<txt>Party bands is the portal for Andy C Entertainment, home of the owner of well known Sydney corporate pranksters Jellybean Jam and Peppermint Jam.
+
+Andy Caryofillis has been using Flash Designs services for almost a decade and the bands are always kept busy from a strong web presence. Recently Andy C has been looking after Superstritious and Boogie Fever as part of his stable of excellent bands!</txt>
+    </portfolio>
+
+    <portfolio>
+        <project_name>Jellybean Jam</project_name>
+	<thumb>images/thumbs/thumb11.jpg</thumb>
+        <image>images/image11.jpg</image>
+        <link>http://www.jellybeanjam.com.au</link>
+	<txt>Without a doubt Sydney's premiere and most successful corporate entertainers, Jellbean Jam continue to deliver a high standard of entertainment and musicianship whilst having an enormous amount of fun onstage and with their audience!
+
+Flash Designs has been building web sites for the corporate wildcats for many years - with a great variety of looks and feels! Some of the older sites are archived on the Jellybean Jam web server and links will be available very soon!</txt>
+    </portfolio>
+
+    <portfolio>
+        <project_name>Boogie Fever</project_name>
+	<thumb>images/thumbs/thumb13.jpg</thumb>
+        <image>images/image13.jpg</image>
+        <link>http://www.boogiefever.com.au</link>
+	<txt>Corporate funksters Boogie Fever are another act that are on the rise in the corporate scene, with Andy Caryofillis investing in a strong web presence for the band.
+
+Sydney bands are quickly realising the power of an immersive and interactive web presence and Flash Designs is increasingly called upon to deliver high impact yet inexpensive web sites and digital audio services to the Sydney music scene. </txt>
+    </portfolio>
+
+    <portfolio>
+        <project_name>Apollo Music</project_name>
+	<thumb>images/thumbs/thumb18.jpg</thumb>
+        <image>images/image18.jpg</image>
+        <link>http://www.apollomusic.net.au</link>
+	<txt>Web site of Mark Marriott, musical director of The Nevilles of Footy Show fame.
+
+Mark commissioned Flash Designs to provide a low budget web presence utilising his existing branding and colour scheme. Flash Designs developed an HTML site that is quick to download and displays Mark's large musical resume!</txt>
+    </portfolio>
+
+    <portfolio>
+        <project_name>Alpino Gelato</project_name>
+	<thumb>images/thumbs/thumb19.jpg</thumb>
+        <image>images/image19.jpg</image>
+        <link>http://www.alpino.com.au</link>
+	<txt>Australia's best Gelato and the oldest established Gelato company in Australia, Alpino manager Laura Nobile commissioned Flash Designs to develop an HTML site to display their enormous range of Gelati! 
+
+Flash Designs are in the process of rebuilding the site for W3C compliancy and to better guarantee Search Engine Optimisation.</txt>
+    </portfolio>
+
+    <portfolio>
+        <project_name>Samsung HD Selector</project_name>
+	<thumb>images/thumbs/thumb20.jpg</thumb>
+        <image>images/image20.jpg</image>
+        <link>http://www.samsung.com/au/hdlife</link>
+	<txt>This was an extremely interesting project with Flash Designs building te code framework for this Rich Media application - the HDTV selection tool. Andrew built the template upon which Robbie and his team at Onque developed the artwork. The tool was originally three rooms but Samsung decide dto change this! 
+
+Andy also created the HTML, CSS, layers template and navigator code for the entire HDLife site.</txt>
+    </portfolio>
+
+    <portfolio>
+        <project_name>Samsung SCX-4500</project_name>
+	<thumb>images/thumbs/thumb21.jpg</thumb>
+        <image>images/image21.jpg</image>
+        <link>http://www.samsung.com/au/scx-4500</link>
+	<txt>A collaboration between Andrew Taylor and Robbie Ayoub, this site features some extensive animation and fabulous design from Robbie. Andrew developed the AS2 scripting and built the template upon which Robbie built the animation. 
+
+The navigator was an interesting problem and resulted in some head scratching, but the site has been extremely effective in promoting this excellent printer!</txt>
+    </portfolio>
+
+    <portfolio>
+        <project_name>Samsung CLP-350N</project_name>
+	<thumb>images/thumbs/thumb22.jpg</thumb>
+        <image>images/image22.jpg</image>
+        <link>http://www.samsung.com/au/clp-350n</link>
+	<txt>The first in a series of joint efforts between Andrew Taylor and exceptional creative director, designer and animator Robbie Ayoub from Fuze Creative. Robbie provided the design and animation skills and Andrew handled the scripting and Flash development. 
+
+Robbie has since become the Creative Director of leading Sydney Design house Onque.</txt>
+    </portfolio>
+
+    <portfolio>
+        <project_name>Samsung Olympic Torch Relay</project_name>
+	<thumb>images/thumbs/thumb24.jpg</thumb>
+        <image>images/image24.jpg</image>
+        <link>http://www.samsung.com/au/olympictorchrelay</link>
+	<txt>Flash Designs reprogrammed this Flash site that was developed by a leading English multimedia house to be broken into individual pages and preloaders. 
+
+This was an extremely difficult job due to the complexity of the programming by the production house (Veritas) and their extensive use of Common Object Modelling.</txt>
+    </portfolio>
+
+    <portfolio>
+        <project_name>Jellybean Jam 2006 Site</project_name>
+	<thumb>images/thumbs/thumb25.jpg</thumb>
+        <image>images/image25.jpg</image>
+        <link>http://www.flashdesigns.com.au/jbj</link>
+	<txt>One of our old favourites! This site was developed in 2006 with a little animation and humour in mind and really reflected the wonderful colour of this exceptional band!
+
+Andy Caryofillis has stated many times that he has had an exceptional amount of bookings directly attributed to the web site - demonstrating the enormous asset that a well designed and executed web presence can be a for a burgeoning business.</txt>
+    </portfolio>
+
+    <portfolio>
+        <project_name>Yolanda Thomas EP Interface</project_name>
+	<thumb>images/thumbs/thumb26.jpg</thumb>
+        <image>images/image26.jpg</image>
+        <link>http://www.flashdesigns.com.au/yolanda</link>
+	<txt>An interface that appeared on Yolanda Thomas' "Lock Up Your Sons" EP about 3 years ago.
+
+Exceptionally photogenic, Flash Designs made use of the many awesome photos that Yolanda provided and created a modern and intuitive interface for her debut EP which did exceedingly well in the US independent rock scene.</txt>
+    </portfolio>
+
+</content>
